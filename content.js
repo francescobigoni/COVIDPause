@@ -79,7 +79,12 @@ function setup() {
         'irus',
         'uarantin',
         'ockdown',
-        'andemic'
+        'andemic',
+        'mmunit',
+        'espirator',
+        'mitte',
+        'esinficer',
+        'arantene'
     ];
 
     sheet.innerHTML = ".covidpause {display: none !important}";
